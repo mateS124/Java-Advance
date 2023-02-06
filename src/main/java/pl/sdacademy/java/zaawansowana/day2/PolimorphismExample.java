@@ -1,15 +1,18 @@
 package pl.sdacademy.java.zaawansowana.day2;
 
-import pl.sdacademy.java.zaawansowana.day2.Interfaces.Impl.ACRemoteController;
-import pl.sdacademy.java.zaawansowana.day2.Interfaces.Impl.TvRemoteController;
-import pl.sdacademy.java.zaawansowana.day2.Interfaces.RemoteController;
+import pl.sdacademy.java.zaawansowana.day2.interfejsy.RemoteController;
+import pl.sdacademy.java.zaawansowana.day2.interfejsy.impl.ACRemoteController;
+import pl.sdacademy.java.zaawansowana.day2.interfejsy.impl.TvRemoteController;
 
 public class PolimorphismExample {
     public static void main(String[] args) {
-        RemoteController remotController = new TvRemoteController() ;
-        remotController.enable(true);
 
-        remotController = new ACRemoteController();
-        remotController.enable(true);
+        RemoteController remoteController;
+        remoteController = new TvRemoteController();
+        remoteController.enable(true);
+
+        remoteController = new ACRemoteController();
+        remoteController.enable(true);
+
     }
 }
