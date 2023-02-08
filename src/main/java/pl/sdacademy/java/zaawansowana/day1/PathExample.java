@@ -11,8 +11,8 @@ public class PathExample {
     public static void main(String[] args) throws IOException {
       Path path = Paths.get("data.txt");
         Files.createFile(path);
-        Files.write(path, "A long time agoe...".getBytes(), StandardOpenOption.WRITE);
-        Files.write(path, "A long time".getBytes(), StandardOpenOption.APPEND);
+        Files.write(path, "A long time agoe...  ".getBytes(), StandardOpenOption.WRITE);
+        Files.write(path, "A long time ".getBytes(), StandardOpenOption.APPEND);
         Files.write(path, "Far away...\n".getBytes(), StandardOpenOption.APPEND);
 
 //        for (int i = 0; i <= Files.readAllLines(path); i++){
