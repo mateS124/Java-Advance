@@ -5,6 +5,6 @@ public class Main {
         Coffee americano = Coffee.AMERICANO;
         String name = Coffee.AMERICANO.name();
         int ordinal = Coffee.AMERICANO.ordinal();
-        System.out.println("1:" + americano + "\n2: " + name + "\n3:\t" + ordinal);
+        System.out.println("1: " + americano + "\n2: " + name + "\n3:\t" + ordinal);
     }
 }

@@ -23,55 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d16c4c42-3898-4c22-9f4c-27e44d0c1b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java-Advance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/user.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day1/PathExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day1/PathExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/BufferedReaderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/BufferedReaderExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/ByteStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/ByteStreamExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/CharBufferExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/CharBufferExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/CharacterStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/CharacterStreamExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/FileInputStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/FileInputStreamExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/FileReaderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/FileReaderExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/FileSeparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/FileSeparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/PathExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/PathExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/PropertiesFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/PropertiesFileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/Serializable/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/Serializable/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/Serializable/WriteOrRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day1/Serializable/WriteOrRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/HousePet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/HousePet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/ACRemoteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/ACRemoteController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/SwinioOwca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/SwinioOwca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/SwinkaMorska.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/SwinkaMorska.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/TvRemoteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/Impl/TvRemoteController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/RemoteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Interfaces/RemoteController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Alkohol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Alkohol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/AlkoholImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/AlkoholImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$1Leki.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$1Leki.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyAnonimowe/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyLokalne/Main$1Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyLokalne/Main$1Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyLokalne/Main$1Pair2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyLokalne/Main$1Pair2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyLokalne/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/KlasyLokalne/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Kowalscy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Kowalscy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/DaysOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/OrderCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/Roast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Kolections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/enums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/enums/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Marek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Marek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Marta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Marta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/PolimorphismExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/PolimorphismExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/TypyKlas/OuterClass$NestedStaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/TypyKlas/OuterClass$NestedStaticClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/TypyKlas/OuterClass$innerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/TypyKlas/OuterClass$innerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/TypyKlas/OuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/TypyKlas/OuterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/enums/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/enums/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +43,15 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,10 +76,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sdacademy.java.zaawansowana.day3" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.sdacademy.java.zaawansowana.day3.Enums" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateusz\IdeaProjects\Java-Advance\src\main\java\pl\sdacademy\java\zaawansowana\day3" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.java.zaawansowana.day1.PathExample" />
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.java.zaawansowana.day3.Kolections.Main" />
       <module name="Java-Advance" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,6 +111,21 @@
       <option name="presentableId" value="Default" />
       <updated>1675878226728</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fixed Java">
+      <created>1675887876359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887876359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed Java">
+      <created>1675887911182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887911182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,43 +138,76 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Java" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="84" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1675887778462">
+    <state x="254" y="84" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1676115250800">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="84" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1675887778462" />
+    <state x="254" y="84" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1676115250800" />
     <state x="580" y="158" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1675887302428">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="158" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860@0.0.1600.860" timestamp="1675887302428" />
-    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1675887582109">
+    <state x="562" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1676112097000">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1675887582109" />
-    <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1675886777750">
+    <state x="562" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1676112097000" />
+    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1676115249082">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1675886777750" />
+    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1676115249082" />
+    <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1676108581522">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1676108581522" />
+    <state x="711" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1676114897882">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="711" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1676114897882" />
+    <state x="859" y="298" width="741" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1676114805210">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="859" y="298" width="741" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1676114805210" />
+    <state x="948" y="270" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1676109207804">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="948" y="270" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1600.860@0.0.1600.860" timestamp="1676109207804" />
     <state x="580" y="208" key="FileChooserDialogImpl" timestamp="1675887253421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="208" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1675887253421" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1675887534908">
+    <state width="569" height="149" key="GridCell.Tab.0.bottom" timestamp="1676126329844">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1675887534908" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1675887534907">
+    <state width="569" height="149" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1676126329844" />
+    <state width="569" height="149" key="GridCell.Tab.0.center" timestamp="1676126329843">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1675887534907" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1675887534907">
+    <state width="569" height="149" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1676126329843" />
+    <state width="569" height="149" key="GridCell.Tab.0.left" timestamp="1676126329841">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1675887534907" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1675887534908">
+    <state width="569" height="149" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1676126329841" />
+    <state width="569" height="149" key="GridCell.Tab.0.right" timestamp="1676126329844">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1675887534908" />
+    <state width="569" height="149" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1676126329844" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1675887966341">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1675887966341" />
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1675887888768">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1675887888768" />
+    <state x="551" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1676110451748">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="551" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1676110451748" />
   </component>
 </project>

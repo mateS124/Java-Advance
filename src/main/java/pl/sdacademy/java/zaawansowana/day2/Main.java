@@ -78,7 +78,8 @@ public class Main {
         System.out.println(MediaPlayer.getNazwaNaszegoInterfejsu());
 
         // Przykład implementacji interfejsów w Javie
-        List<String> names = new ArrayList<>();
+        List<String> names;
+        names = new ArrayList<>();
         names.add("Jarek");
         names.add("Marek");
         names.add("Arek");
