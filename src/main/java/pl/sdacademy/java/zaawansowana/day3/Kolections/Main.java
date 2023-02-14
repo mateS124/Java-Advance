@@ -137,7 +137,7 @@ public class Main {
         //dodawania elementów do mapy
         employees.put(null, 3000.0f);
         employees.put("John Dool", 3000.0f);
-        employees.put(null, 4500.0f);  // co w tym przypadku
+        employees.put(null, 4500.0f);  // co w tym przypadku => zastepuje wartosc dla elementu dla klucza null
         employees.put("Prasad A", null);
         employees.put("Prasad B", null);
         employees.put("Prasad C", null);
@@ -161,7 +161,7 @@ public class Main {
             System.out.println("Wypłata: "+ value);
         }
         System.out.println("-------------------");
-        for (Map.Entry<String, Float> pair : employees.entrySet()) {
+        for (Map.Entry<String, Float> pair : employees.entrySet()) { //Interfejs Entry w intrfejsie Map
             System.out.println("Pracownik-wypłata " + pair);
         }
 

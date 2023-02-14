@@ -23,23 +23,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d16c4c42-3898-4c22-9f4c-27e44d0c1b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/DaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/OrderCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Enums/Roast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Kolections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/ConcatenateInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/ConcatenateLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/ConcatenateTraditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/HelloWorldInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/HelloWorldLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/HelloWorldTraditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/IncrementByValu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/IncrementByValuLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/IncrementByValuTraditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Exercises/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/KontraktWJava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Utils/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Utils/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day4/Utils/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cars.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/people.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/enums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day2/enums/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/enums/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/java/zaawansowana/day2/enums/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Kolections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/java/zaawansowana/day3/Kolections/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -49,6 +62,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,10 +92,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="pl.sdacademy.java.zaawansowana.day3" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sdacademy.java.zaawansowana.day4.Utils" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pl.sdacademy.java.zaawansowana.day3.Enums" />
@@ -90,12 +110,14 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateusz\IdeaProjects\Java-Advance\src\main\java\pl\sdacademy\java\zaawansowana\day4\Utils" />
+      <recent name="C:\Users\Mateusz\IdeaProjects\Java-Advance\src\main\resources" />
       <recent name="C:\Users\Mateusz\IdeaProjects\Java-Advance\src\main\java\pl\sdacademy\java\zaawansowana\day3" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.java.zaawansowana.day3.Kolections.Main" />
+    <configuration name="IncrementByValuLambda" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.java.zaawansowana.day4.Exercises.IncrementByValuLambda" />
       <module name="Java-Advance" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675887911182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day 3">
+      <created>1676143135419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676143135419</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,37 +171,50 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Java" />
+    <MESSAGE value="day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="84" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1676115250800">
+    <state x="28" y="122" key="#Inspections" timestamp="1676213662210">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="84" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1676115250800" />
+    <state x="28" y="122" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1676213662210" />
+    <state x="560" y="8" key="#Project_Structure" timestamp="1676199330975">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="560" y="8" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1676199330975" />
+    <state x="476" y="0" width="1092" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1676233863179">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="476" y="0" width="1092" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1676233863179" />
     <state x="580" y="158" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1675887302428">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="158" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860@0.0.1600.860" timestamp="1675887302428" />
-    <state x="562" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1676112097000">
+    <state x="562" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1676204718220">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="562" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1676112097000" />
-    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1676115249082">
+    <state x="562" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1676204718220" />
+    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1676233847086">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1676115249082" />
+    <state x="529" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1676233847086" />
     <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1676108581522">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1676108581522" />
-    <state x="711" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1676114897882">
+    <state x="711" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1676199774075">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="711" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1676114897882" />
+    <state x="711" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1676199774075" />
     <state x="859" y="298" width="741" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1676114805210">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="859" y="298" width="741" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1676114805210" />
+    <state x="1097" y="340" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1676199780896">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1097" y="340" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.860@0.0.1600.860" timestamp="1676199780896" />
     <state x="948" y="270" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1676109207804">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -181,33 +223,45 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="208" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1675887253421" />
-    <state width="569" height="149" key="GridCell.Tab.0.bottom" timestamp="1676126329844">
+    <state width="563" height="149" key="GridCell.Tab.0.bottom" timestamp="1676233882631">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="569" height="149" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1676126329844" />
-    <state width="569" height="149" key="GridCell.Tab.0.center" timestamp="1676126329843">
+    <state width="563" height="149" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1676233882631" />
+    <state width="563" height="149" key="GridCell.Tab.0.center" timestamp="1676233882631">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="569" height="149" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1676126329843" />
-    <state width="569" height="149" key="GridCell.Tab.0.left" timestamp="1676126329841">
+    <state width="563" height="149" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1676233882631" />
+    <state width="563" height="149" key="GridCell.Tab.0.left" timestamp="1676233882630">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="569" height="149" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1676126329841" />
-    <state width="569" height="149" key="GridCell.Tab.0.right" timestamp="1676126329844">
+    <state width="563" height="149" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1676233882630" />
+    <state width="563" height="149" key="GridCell.Tab.0.right" timestamp="1676233882631">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="569" height="149" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1676126329844" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1675887966341">
+    <state width="563" height="149" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1676233882631" />
+    <state x="330" y="84" key="Maven.ArtifactSearchDialog" timestamp="1676208580026">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1675887966341" />
-    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1675887888768">
+    <state x="330" y="84" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1676208580026" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1676143212857">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1675887888768" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1676143212857" />
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1676143154776">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1676143154776" />
     <state x="551" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1676110451748">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="551" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1676110451748" />
+    <state x="52" y="216" key="refactoring.ChangeSignatureDialog" timestamp="1676205022335">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="52" y="216" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1676205022335" />
+    <state x="928" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1676196314206">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="928" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1676196314206" />
   </component>
 </project>
