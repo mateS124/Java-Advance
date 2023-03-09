@@ -1,7 +1,8 @@
 package pl.sdacademy.java.zaawansowana.day1;
 
-import java.io.*;
-import java.util.Arrays;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
 
 public class ByteStreamExample {
     public static void main(String[] args) throws IOException, RuntimeException {

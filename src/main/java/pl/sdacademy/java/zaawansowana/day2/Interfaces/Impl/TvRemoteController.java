@@ -7,6 +7,6 @@ public class TvRemoteController implements RemoteController {
     @Override
     public void enable(boolean enable) {
         //włączenie/wyłączenie telewizora
-        System.out.println("Włącz TV");
+        System.out.println("Włączam TV");
     }
 }

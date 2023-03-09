@@ -4,6 +4,8 @@ public class Bed {
     private String name;
     private String bedroomType;
 
+
+
     public String getName() {
         return name;
     }

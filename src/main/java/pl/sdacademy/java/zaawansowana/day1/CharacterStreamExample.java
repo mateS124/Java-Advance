@@ -1,6 +1,5 @@
 package pl.sdacademy.java.zaawansowana.day1;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -10,7 +9,8 @@ public class CharacterStreamExample {
         // zadeklarować zmienne FileReader i FileWriter.
         // stworzyć blok try -> finally
         // w bloku try przypisujemy obiekty do zmiennych
-        // w finally zamykamy obiekty (uwaga , bo coś jeszcze trzeba yu zrobić)
+        // w finally zamykamy obiekty (uwaga , bo coś jeszcze trzeba yu zrobić) -> musimy sprawdzić czy są otwarte
+
 
         FileReader in = null; // = new FileReader("user.txt");
         FileWriter out = null; // = new FileWriter("user_output3.txt");

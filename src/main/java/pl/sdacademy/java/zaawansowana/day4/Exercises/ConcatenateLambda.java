@@ -8,8 +8,7 @@ public class ConcatenateLambda {
                 return a + " " + b;
             }
         };
-        System.out.println(anonimusClass.concat("Wersja", "anonimowa")
-        );
+        System.out.println(anonimusClass.concat("Wersja", "anonimowa"));
 
         ConcatenateInterface asLambda = ( a, b) ->  a + " " + b;
         System.out.println(asLambda.concat("Wersja", "Lambda"));

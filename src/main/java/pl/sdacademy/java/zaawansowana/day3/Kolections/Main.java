@@ -81,7 +81,7 @@ public class Main {
         System.out.println("Listy - LinkedList");
         List<String> surnames = new LinkedList<>();
         surnames.add("a");
-        surnames.add("b"); // =>  a | b | c poprzedza a my jestecmy b za nami c
+        surnames.add("b"); // =>  a | b | c poprzedza a my jestesmy b za nami c
         surnames.add("c"); // =>  b | c | d
         surnames.add("d"); // =>  c | d | null
 

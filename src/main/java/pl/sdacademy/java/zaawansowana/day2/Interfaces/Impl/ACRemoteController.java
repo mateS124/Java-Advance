@@ -7,6 +7,7 @@ public class ACRemoteController implements RemoteController {
     @Override
     public void enable(boolean enable) {
         //włączenie/wyłączenie kilmatyzacji
-        System.out.println("Włącz klimatyzację");
+
+            System.out.println("Wyłączam klimatyzację Do Zobaczenia");
     }
 }

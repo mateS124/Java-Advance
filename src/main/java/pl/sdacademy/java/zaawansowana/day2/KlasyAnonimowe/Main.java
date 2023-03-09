@@ -1,10 +1,7 @@
 package pl.sdacademy.java.zaawansowana.day2.KlasyAnonimowe;
 
 
-
 import pl.sdacademy.java.zaawansowana.day2.Animal;
-
-import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
@@ -24,6 +21,20 @@ public class Main {
             }
         };
         żołądkowa.typAlkoholu();
+
+        Alkohol Chivas = new Alkohol() {
+            @Override
+            public void typAlkoholu() {
+                System.out.println("Jestem Chivas");
+            }
+        };
+        Chivas.typAlkoholu();
+
+        Alkohol chivasRegal = () -> System.out.println("Jestem Chivas Regal 12");
+        chivasRegal.typAlkoholu();
+
+        Alkohol JohnyWalkew = () -> System.out.println("Jestem sobie JohnyWalker");
+        JohnyWalkew.typAlkoholu();
 
         Alkohol żubrówka = new Alkohol() {
             @Override
